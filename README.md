@@ -1,6 +1,6 @@
 # 👋 Hello! I'm a Blockchain and Full-Stack Developer
 
-I'm a dedicated Blockchain and Full-Stack Developer with a passion for crafting dynamic and user-friendly websites. Leveraging my expertise in the Laravel Framework, I specialize in creating impactful online platforms that serve as a company's gateway to the digital world. 💻🌐 
+I am a passionate developer with a strong foundation in Blockchain Development and Web Development. My journey in technology has equipped me with a diverse skill set, enabling me to create innovative and efficient solutions across various platforms. 💻🌐 
 
 ## 🔧 Technical Skills
 
