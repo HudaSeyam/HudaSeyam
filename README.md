@@ -5,25 +5,29 @@ I am a passionate developer with a strong foundation in Blockchain Development a
 ## 🔧 Technical Skills
 
 ### Blockchain Development
-- **Platforms**: Ethereum
-- **Tools & Frameworks**: Remix, Truffle, Ganache, Geth, Web3
-- **Languages**: Solidity
-- **Wallets**: MetaMask
+- **Platforms**: Ethereum.
+- **Tools & Frameworks**: Remix, Truffle, Ganache, Geth, Web3.
+- **Languages**: Solidity.
+- **Wallets**: MetaMask.
 
 ### Web Development
-- **Frameworks**: CodeIgniter, Laravel
-- **Frontend**: React JS, HTML, CSS, JavaScript, jQuery, Bootstrap
-- **Mobile Development**: React Native
-
+- **Frameworks**: CodeIgniter, Laravel.
+- **Frontend**: React JS, HTML, CSS, JavaScript, jQuery, Bootstrap.
+- **Mobile Development**: React Native.
+  
+### Cloud Technologies
+- **Platforms**: AWS.
+- **Containerization**: Docker.
+  
 ### Database Management 
-- **Relational Databases**: Oracle, MySQL, PostgreSQL
+- **Relational Databases**: Oracle, MySQL, PostgreSQL.
 
 ### Programming Languages
-- Java, PHP, and Python
+- Java, PHP, and Python.
 
 ### APIs
-- RESTful API
-- Express JS
+- RESTful API.
+- Express JS.
 
 ---
 
